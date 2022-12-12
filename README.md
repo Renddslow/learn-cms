@@ -18,6 +18,20 @@ The client is built with React for its relative ubiquity and to promote widespre
 
 ![img.png](img.png)
 
+### Structure of template repo
+
+```
+/
+├── .github
+│   └── workflows
+├── public/
+│   ├── bundle.js
+│   ├── favicon.ico
+│   └── index.html
+├── run (executable)
+└── content/
+```
+
 ## Getting Started
 
 ## To Do's
