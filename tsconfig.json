@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "jsx": "react",
+        "target": "esnext",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "noEmit": true,
+        "strict": true,
+        "isolatedModules": true,
+        "skipLibCheck": true,
+        "allowJs": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "baseUrl": "./",
+        "paths": {}
+    },
+    "include": ["client/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
