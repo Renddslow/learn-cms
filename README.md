@@ -16,6 +16,8 @@ As such, this repo is only meant to be run locally, but never deployed as a depl
 
 The client is built with React for its relative ubiquity and to promote widespread participation in the project. The server is built in Go, primarily to make it easy to build a single binary and promote the principle of "Dev optional."
 
+![img.png](img.png)
+
 ## Getting Started
 
 ## To Do's
